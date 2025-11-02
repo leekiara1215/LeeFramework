@@ -110,7 +110,7 @@ namespace LeeFramework.Scripts.Tools
         private static string scriptName = "#SCRIPTNAME#"; //脚本名字
         private static string authorName = "#CreateAuthor#"; //作者名字
         private static string device = "#Device#"; //设备
-        private static string email = "53033907+leexyy0804@users.noreply.github.com"; //"#Email#"; //邮箱
+        private static string email = "53033907+leekiara1215@users.noreply.github.com"; //"#Email#"; //邮箱
         private static string createTime = "#CreateTime#"; //创建时间
         private static string header =
             "//@LeeTools\n//------------------------\n";
